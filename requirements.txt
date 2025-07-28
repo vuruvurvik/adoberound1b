@@ -1,0 +1,16 @@
+# requirements.txt
+
+# For PDF parsing
+PyMuPDF==1.23.7
+
+# For sentence transformer embedding
+sentence-transformers==2.2.2
+transformers==4.30.2
+torch==2.0.1
+tokenizers==0.13.3
+
+# Core dependencies
+numpy==1.24.4
+scipy==1.10.1
+scikit-learn==1.2.2
+tqdm==4.65.0
